@@ -1,4 +1,4 @@
-# Discord bots website 
+# Discord bot website 
 
 ## Built With
 
