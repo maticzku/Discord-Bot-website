@@ -5,7 +5,7 @@
 * [HTML](https://html.com)
 * [CSS]()
 
-[DEMO](https://discord-bot-website.matixd034.repl.co/)
+[DEMO](https://matiq.ml/Discord-Bot-website/)
 
 ## Authors
 
