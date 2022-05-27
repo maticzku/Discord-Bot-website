@@ -2,8 +2,10 @@
 
 ## Built With
 
-* [HTML](https://html.com)
+* [HTML]()
 * [CSS]()
+* [JS]()
+* 
 
 [DEMO](https://matiq.ml/Discord-Bot-website/)
 
