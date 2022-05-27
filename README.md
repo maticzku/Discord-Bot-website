@@ -5,7 +5,6 @@
 * [HTML]()
 * [CSS]()
 * [JS]()
-* 
 
 [DEMO](https://matiq.ml/Discord-Bot-website/)
 
